@@ -33,7 +33,7 @@ Users often share personal data without full control or awareness.
 
 | Section | Preview |
 |----------|----------|
-| 🏠 Home Screen | ![Home](./Screens/02_Home.png) |
+| 🏠 Home Screen | ![Home](https://github.com/siddhart3000/Hushh-Wallet-Prototype/blob/main/Screenshot%202025-11-12%20171710.png) |
 | 📋 Preferences | ![Preferences](./Screens/03_Preferences.png) |
 | 🔄 Consent Flow | ![Consent](./Screens/04_Consent_Flow.png) |
 | 📷 QR Scan | ![QR](./Screens/05_QR_Scan_Journey.png) |
