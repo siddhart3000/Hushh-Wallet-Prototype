@@ -6,6 +6,11 @@ This prototype was created as part of the **Hushh Wallet Internship Challenge 20
 
 ---
 
+## 🔗 Figma Prototype Link
+👉 [**View Interactive Prototype Here**](https://www.figma.com/proto/BxqKYPKnjF6yGj1r4RYRlY/Untitled?node-id=3-2&t=ga9nLTmxpz1rTJYR-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2)
+
+---
+
 ## 🧠 Problem Statement
 Users often share personal data without full control or awareness.  
 **Hushh Wallet** aims to solve this by introducing:
@@ -33,12 +38,12 @@ Users often share personal data without full control or awareness.
 
 | Section | Preview |
 |----------|----------|
-| 🏠 Home Screen | ![Home](https://github.com/siddhart3000/Hushh-Wallet-Prototype/blob/main/Screenshot%202025-11-12%20171710.png) |
-| 📋 Preferences | ![Preferences](./Screens/03_Preferences.png) |
-| 🔄 Consent Flow | ![Consent](./Screens/04_Consent_Flow.png) |
-| 📷 QR Scan | ![QR](./Screens/05_QR_Scan_Journey.png) |
-| 🧾 Audit History | ![History](./Screens/06_Audit_History.png) |
-| 🧱 Design System | ![System](./Screens/07_Design_System.png) |
+| 🏠 Home Screen | ![Home](https://github.com/siddhart3000/Hushh-Wallet-Prototype/blob/main/Screenshot%202025-11-12%20171720.png) |
+| 📋 Preferences | ![Preferences](https://github.com/siddhart3000/Hushh-Wallet-Prototype/blob/main/Screenshot%202025-11-12%20171812.png) |
+| 🔄 Badge Flow | ![Consent](https://github.com/siddhart3000/Hushh-Wallet-Prototype/blob/main/Screenshot%202025-11-12%20172256.png) |
+| 📷 QR Scan | ![QR](https://github.com/siddhart3000/Hushh-Wallet-Prototype/blob/main/Screenshot%202025-11-12%20172323.png) |
+| 🧾 Audit History | ![History](https://github.com/siddhart3000/Hushh-Wallet-Prototype/blob/main/Screenshot%202025-11-12%20172211.png) |
+| 🧱 Design System | ![System](https://github.com/siddhart3000/Hushh-Wallet-Prototype/blob/main/Screenshot%202025-11-12%20172546.png) |
 
 ---
 
@@ -70,11 +75,6 @@ Users often share personal data without full control or awareness.
 4️⃣ **Scan_Success** → Data Shared Successfully  
 5️⃣ **Scan_RevokeConfirm** → Revoke Access Modal  
 6️⃣ **Scan_Offline** → Minimal fallback view
-
----
-
-## 🔗 Figma Prototype Link
-👉 [**View Interactive Prototype Here**](https://www.figma.com/proto/BxqKYPKnjF6yGj1r4RYRlY/Untitled?node-id=3-2&t=ga9nLTmxpz1rTJYR-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2)
 
 ---
 
